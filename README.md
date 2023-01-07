@@ -72,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Packages
 
 1. npx create-react-app ./
+//this is make sure that we are installed only the right dependencies
+2. npm install --legacy-peer-deps
